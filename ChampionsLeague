@@ -18,7 +18,7 @@
     {
       "name": "Juventus", 
       "yearFounded": "1897",
-      "Image": "https://github.com/mijael-hash/testing/blob/main/JuventusLogo.png"
+      "Image": "https://raw.githubusercontent.com/mijael-hash/testing/main/JuventusLogo.png"
     }
  ],
  "status": "OK"
