@@ -3,22 +3,22 @@
     {
       "name": "FC Barcelona", 
       "yearFounded": "1899",
-      "Image": "https://images.app.goo.gl/yFyeReu5t2yFGpQN9"
+      "Image": "https://images.app.goo.gl/yFyeReu5t2yFGpQN9.jpg"
     },
     {
       "name": "Real Madrid", 
       "yearFounded": "1902",
-      "Image": "https://images.app.goo.gl/yFyeReu5t2yFGpQN9"
+      "Image": "https://images.app.goo.gl/yFyeReu5t2yFGpQN9.jpg"
     },
     {
       "name": "FC Bayern Munich", 
       "yearFounded": "1900",
-      "Image": "https://images.app.goo.gl/yFyeReu5t2yFGpQN9"
+      "Image": "https://images.app.goo.gl/yFyeReu5t2yFGpQN9.jpg"
     },
     {
       "name": "Juventus", 
       "yearFounded": "1897",
-      "Image": "https://images.app.goo.gl/yFyeReu5t2yFGpQN9"
+      "Image": "https://images.app.goo.gl/yFyeReu5t2yFGpQN9.jpg"
     }
  ],
  "status": "OK"
