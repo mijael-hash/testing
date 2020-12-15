@@ -3,22 +3,22 @@
     {
       "name": "FC Barcelona", 
       "yearFounded": "1899",
-      "Image": "https://images.app.goo.gl/yFyeReu5t2yFGpQN9.jpg"
+      "Image": "https://raw.githubusercontent.com/mijael-hash/testing/main/FCBarcelonaLogo.png"
     },
     {
       "name": "Real Madrid", 
       "yearFounded": "1902",
-      "Image": "https://images.app.goo.gl/yFyeReu5t2yFGpQN9.jpg"
+      "Image": "https://raw.githubusercontent.com/mijael-hash/testing/main/FCBarcelonaLogo.png"
     },
     {
       "name": "FC Bayern Munich", 
       "yearFounded": "1900",
-      "Image": "https://images.app.goo.gl/yFyeReu5t2yFGpQN9.jpg"
+      "Image": "https://raw.githubusercontent.com/mijael-hash/testing/main/FCBarcelonaLogo.png"
     },
     {
       "name": "Juventus", 
       "yearFounded": "1897",
-      "Image": "https://images.app.goo.gl/yFyeReu5t2yFGpQN9.jpg"
+      "Image": "https://raw.githubusercontent.com/mijael-hash/testing/main/FCBarcelonaLogo.png"
     }
  ],
  "status": "OK"
