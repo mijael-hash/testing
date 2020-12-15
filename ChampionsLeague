@@ -1,0 +1,21 @@
+{ 
+  "ChampionsLeague": [
+    {
+      "name": "FC Barcelona", 
+      "yearFounded": "1899"
+    },
+    {
+      "name": "Real Madrid", 
+      "yearFounded": "1902"
+    },
+    {
+      "name": "FC Bayern Munich", 
+      "yearFounded": "1900"
+    },
+    {
+      "name": "Juventus", 
+      "yearFounded": "1897"
+    }
+ ],
+ "status": "OK"
+}
